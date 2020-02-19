@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/ExpenseTracker",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
